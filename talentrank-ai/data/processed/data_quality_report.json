@@ -1,0 +1,58 @@
+{
+  "total_candidates": 1000,
+  "valid_candidates": 1000,
+  "invalid_candidates": 0,
+  "valid_rate": 1.0,
+  "processing_time_seconds": 0.65,
+  "processing_rate": 1549.0,
+  "error_types": {},
+  "experience": {
+    "min": 1.1,
+    "max": 15.0,
+    "mean": 6.8928,
+    "in_jd_range_5_9": 341,
+    "in_jd_range_pct": 34.1
+  },
+  "top_titles": {
+    "Mechanical Engineer": 70,
+    "Marketing Manager": 69,
+    "Customer Support": 58,
+    "Business Analyst": 58,
+    "Sales Executive": 57,
+    "Civil Engineer": 55,
+    "HR Manager": 55,
+    "Graphic Designer": 55,
+    "Project Manager": 54,
+    "Operations Manager": 51,
+    "Accountant": 51,
+    "Content Writer": 48,
+    "Software Engineer": 40,
+    "Frontend Engineer": 39,
+    "QA Engineer": 35,
+    "Java Developer": 29,
+    "DevOps Engineer": 27,
+    "Cloud Engineer": 27,
+    "Mobile Developer": 26,
+    "Full Stack Developer": 25
+  },
+  "country_distribution": {
+    "India": 759,
+    "USA": 91,
+    "UAE": 30,
+    "Germany": 28,
+    "UK": 25,
+    "Singapore": 24,
+    "Australia": 22,
+    "Canada": 21
+  },
+  "skills": {
+    "avg_per_candidate": 9.6,
+    "min": 5,
+    "max": 23
+  },
+  "behavioral": {
+    "avg_recruiter_response_rate": 0.433,
+    "open_to_work_count": 346,
+    "open_to_work_pct": 34.6
+  }
+}

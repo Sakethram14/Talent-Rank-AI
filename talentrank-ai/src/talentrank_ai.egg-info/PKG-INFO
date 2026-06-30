@@ -1,0 +1,28 @@
+Metadata-Version: 2.4
+Name: talentrank-ai
+Version: 0.1.0
+Summary: AI-powered recruitment intelligence platform for the India Runs Hackathon
+Requires-Python: >=3.10
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: pandas>=2.0.0
+Requires-Dist: scikit-learn>=1.3.0
+Requires-Dist: sentence-transformers>=2.2.0
+Requires-Dist: faiss-cpu>=1.7.4
+Requires-Dist: rank-bm25>=0.2.2
+Requires-Dist: pyarrow>=14.0.0
+Requires-Dist: pyyaml>=6.0
+Requires-Dist: tqdm>=4.65.0
+Requires-Dist: rich>=13.0.0
+Requires-Dist: fastapi>=0.111.0
+Requires-Dist: uvicorn>=0.23.0
+Requires-Dist: httpx>=0.27.0
+Requires-Dist: pydantic>=2.0.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Requires-Dist: pytest-cov>=4.0; extra == "dev"
+Requires-Dist: ruff>=0.1.0; extra == "dev"
+Provides-Extra: notebooks
+Requires-Dist: jupyter>=1.0; extra == "notebooks"
+Requires-Dist: matplotlib>=3.7.0; extra == "notebooks"
+Requires-Dist: seaborn>=0.12.0; extra == "notebooks"
+Requires-Dist: plotly>=5.15.0; extra == "notebooks"
