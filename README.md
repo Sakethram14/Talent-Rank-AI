@@ -195,6 +195,10 @@ Displays candidates ranked using the hybrid semantic retrieval engine.
   <img src="screenshots/rankings.png" width="100%" alt="Rankings">
 </p>
 
+<p align="center">
+  <img src="screenshots/cards-view.png" width="100%" alt="Rankings">
+</p>
+
 ---
 
 # 6. ⚖️ Compare Page
@@ -290,7 +294,7 @@ The **Configuration Sandbox** allows recruiters to customize the AI ranking engi
 - 🔄 Instant application of custom ranking strategies
 
 <p align="center">
-  <img src="screenshots/configuration-sandbox.png" width="100%" alt="Configuration Sandbox">
+  <img src="screenshots/sandbox-config.png" width="100%" alt="Configuration Sandbox">
 </p>
 
 ---
