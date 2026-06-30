@@ -111,3 +111,244 @@ Follow these steps for a complete demo of the platform:
 7. **Wall of Shame:** Navigate to **Honeypots** to see how the system caught and quarantined profile fraudsters.
 8. **Check the Workspace:** Go to **Your Workspace** to view your starred candidates, search history, and saved searches.
 9. **Export CSV:** Go to the **Export Center** or click **Export Shortlist** to download the official hackathon submission file.
+
+# 📸 Application Screenshots
+
+TalentRank AI provides a modern, recruiter-centric interface powered by Explainable AI (XAI) to intelligently analyze job descriptions, rank candidates, detect resume inconsistencies, discover hidden talent, and streamline the recruitment workflow.
+
+---
+
+# 1. 🏠 Landing Page
+
+The landing page introduces **TalentRank AI** and showcases its Explainable AI-powered recruitment intelligence. Recruiters can quickly understand the platform's capabilities before signing in.
+
+<p align="center">
+  <img src="screenshots/landing-page.png" width="100%" alt="Landing Page">
+</p>
+
+---
+
+# 2. 🔐 Google Sign-In Page
+
+Secure authentication using **Google OAuth** enables recruiters to access their personalized workspace. A developer bypass option is also available for local demonstrations and testing.
+
+<p align="center">
+  <img src="screenshots/google-signin.png" width="100%" alt="Google Sign In">
+</p>
+
+---
+
+# 3. 📊 Dashboard
+
+The dashboard provides a comprehensive overview of the recruitment workspace with real-time analytics and system health.
+
+### Highlights
+
+- 📈 Candidate statistics
+- 🤖 AI indexing status
+- ⚡ System performance metrics
+- 📌 Recent recruitment activity
+- 🚀 Quick recruiter actions
+- 📊 Recruitment analytics
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="100%" alt="Dashboard">
+</p>
+
+---
+
+# 4. 📄 Job Analysis Page
+
+Recruiters can paste any job description, and the AI pipeline automatically extracts skills, builds competency graphs, generates semantic embeddings, and retrieves the most relevant candidates.
+
+### AI Pipeline
+
+- Skill Extraction
+- Requirement Parsing
+- Semantic Embedding Generation
+- Dense Vector Retrieval
+- Lexical Search (BM25)
+- Hybrid Ranking
+- Explainable Candidate Scoring
+
+<p align="center">
+  <img src="screenshots/job-analysis.png" width="100%" alt="Job Analysis">
+</p>
+
+---
+
+# 5. 🏆 Rankings Page
+
+Displays candidates ranked using the hybrid semantic retrieval engine.
+
+### Features
+
+- Hybrid Semantic Search
+- Confidence Scores
+- Explainable AI Ranking
+- Skill-based Filtering
+- Candidate Search
+- Fast-track Recommendations
+- Resume Matching Score
+
+<p align="center">
+  <img src="screenshots/rankings.png" width="100%" alt="Rankings">
+</p>
+
+---
+
+# 6. ⚖️ Compare Page
+
+Compare multiple candidates side-by-side across different recruitment dimensions to support data-driven hiring decisions.
+
+### Comparison Metrics
+
+- Semantic Match
+- Skill Score
+- Career Progression
+- Behavioral Fit
+- Availability
+- Experience
+- Risk Indicators
+
+<p align="center">
+  <img src="screenshots/compare.png" width="100%" alt="Compare Candidates">
+</p>
+
+---
+
+# 7. 🧠 Candidate Analysis Page
+
+Every shortlisted candidate receives a fully explainable AI-generated profile with detailed competency analysis and recommendation reasoning.
+
+### Includes
+
+- Competency Radar Chart
+- Skill Breakdown
+- Career Timeline
+- AI Reasoning
+- Explainability Layer
+- Professional History
+- Recruiter Recommendation
+
+<p align="center">
+  <img src="screenshots/candidate-analysis.png" width="100%" alt="Candidate Analysis">
+</p>
+
+---
+
+# 8. 💎 Hidden Gems Page
+
+TalentRank AI discovers highly qualified candidates who are often overlooked by traditional Applicant Tracking Systems.
+
+### Highlights
+
+- High technical quality
+- Low recruiter visibility
+- AI-generated Gem Score
+- Open-to-work candidates
+- Intelligent talent discovery
+
+<p align="center">
+  <img src="screenshots/hidden-gems.png" width="100%" alt="Hidden Gems">
+</p>
+
+---
+
+# 9. 🚨 Honeypots Page
+
+The Honeypot Detection engine identifies suspicious resumes by detecting inconsistencies and contradictions within candidate profiles.
+
+### Fraud Detection
+
+- Resume Contradictions
+- Impossible Experience Timelines
+- Skill Duration Validation
+- Profile Consistency Checks
+- Explainable Rejection Reasons
+
+<p align="center">
+  <img src="screenshots/honeypots.png" width="100%" alt="Honeypot Detection">
+</p>
+
+---
+
+# 10. ⚙️ Configuration Sandbox
+
+The **Configuration Sandbox** allows recruiters to customize the AI ranking engine by adjusting the importance of different evaluation dimensions. This enables organizations to tailor candidate rankings according to their hiring priorities.
+
+### Features
+
+- ⚖️ Interactive ranking weight adjustment
+- 🧠 Fine-tune Semantic, Structured, Behavioral, and Recency dimensions
+- 🎯 Preconfigured profiles:
+  - Balanced
+  - Fresher
+  - Experienced
+- 🚀 Real-time AI ranking customization
+- 📊 Transparent scoring configuration
+- 🔄 Instant application of custom ranking strategies
+
+<p align="center">
+  <img src="screenshots/configuration-sandbox.png" width="100%" alt="Configuration Sandbox">
+</p>
+
+---
+
+# 11. 📤 Export Center
+
+The Export Center prepares shortlisted candidates for final submission and allows recruiters to export rankings in CSV format.
+
+### Features
+
+- CSV Export
+- Submission Preview
+- Candidate Validation
+- Final Ranking Export
+- Recruiter-friendly Output
+
+<p align="center">
+  <img src="screenshots/export-center.png" width="100%" alt="Export Center">
+</p>
+
+---
+
+# 12. 👤 Recruiter Profile & Workspace
+
+Each recruiter receives a personalized workspace that stores hiring history, saved searches, shortlisted candidates, and account information.
+
+### Workspace Features
+
+- Recruiter Profile
+- Saved Searches
+- Saved Candidates
+- Export History
+- Notifications
+- Account Settings
+- Search History
+- Workspace Management
+
+<p align="center">
+  <img src="screenshots/profile-page.png" width="100%" alt="Recruiter Workspace">
+</p>
+
+---
+
+## ✨ User Experience Highlights
+
+TalentRank AI is designed with a recruiter-first philosophy and combines modern UI/UX with state-of-the-art AI technologies.
+
+### Core Highlights
+
+- 🌙 Modern Dark Theme
+- 🤖 Explainable AI (XAI)
+- 🔍 Hybrid Semantic Search
+- 📊 Interactive Analytics Dashboard
+- ⚖️ Candidate Comparison
+- 🧠 AI-Powered Candidate Analysis
+- 💎 Hidden Talent Discovery
+- 🚨 Resume Fraud Detection
+- ⚙️ Configurable Ranking Engine
+- 📤 Export-ready Recruitment Pipeline
+- 📱 Responsive Enterprise-grade Interface
+- 🚀 Optimized for Large-scale Candidate Search (100,000+ Profiles)
